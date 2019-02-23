@@ -6,11 +6,11 @@ The data was gathered from a given CSV, a website, and Twitter’s API. Tweepy w
 
 ## Process:
 
-•	The quality and tidiness issues were identified.
-•	A copy was created for each dataset before cleaning.
-•	The issues were fixed data was cleaned.
-•	The cleaned data was saved.
-•	The dataset was explored using data visualization.
+1. The quality and tidiness issues were identified.
+2. A copy was created for each dataset before cleaning.
+3. The issues were fixed data was cleaned.
+4. The cleaned data was saved.
+5. The dataset was explored using data visualization.
 
 ## Conclusion:
 1. Pupper have the highest count in the data and Doggo & Floofer the least.
